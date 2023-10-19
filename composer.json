@@ -1,0 +1,22 @@
+{
+    "name": "hitendra/module-coupongrid",
+    "description": "The Magento2 \"Coupon Column for Sales Order Grid\" Module enhances the functionality of the admin panel, streamlining the order management process by providing quick access to crucial information.. The module is also helping administrators to add  the coupon column to order export automatically.",
+    "type": "magento2-module",
+    
+    "authors": [
+        {
+            "name": "Hitendra",
+            "email": "hitendra.jmit@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Hitendra\\CouponGrid\\": ""
+        }
+    }
+}
