@@ -6,3 +6,9 @@ The Magento2 "Coupon Column for Sales Order Grid" Module enhances the functional
 The module is also helping administrators to add  the coupon column to order export automatically.
 
 With this module, administrators can effortlessly retrieve and view coupon codes associated with each order, resulting in improved efficiency, accuracy, and overall workflow productivity.
+
+How to instll 
+
+$ composer require hitendra/module-coupongrid
+
+
